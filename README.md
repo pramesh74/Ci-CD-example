@@ -3,6 +3,7 @@ CI/CD pipeline example for static HTML page
 Directory Structure
 
 Ci-CD-example
+
  ├── .github/workflows
  └── index.html
 
