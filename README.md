@@ -3,8 +3,8 @@ CI/CD pipeline example for static HTML page
 Directory Structure
 
 Ci-CD-example
- ├── .github/workflows
- └── index.html
+|--- .github/workflows
+|--- index.html
 
 Workflows folder contains .yml file for static webpage deployment.
 
