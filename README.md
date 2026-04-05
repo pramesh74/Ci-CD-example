@@ -5,6 +5,8 @@ Directory Structure
 Ci-CD-example
  ├── .github/workflows
  └── index.html
+
+ 
 Workflows folder contains .yml file for static webpage deployment.
 
 Pipeline will trigger:
